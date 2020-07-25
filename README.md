@@ -61,6 +61,7 @@
 - [Entity linking](chinese/chinese.md#entity-linking)
 - [Chinese word segmentation](chinese/chinese_word_segmentation.md)
 - [Question answering](chinese/question_answering.md)
+- [ASD](chinese/asd.md)
 
 ### French
 
@@ -149,10 +150,10 @@ In both cases, follow the steps below:
 5. Show how an annotated example of the dataset/task looks like.
 6. Add a download link if available.
 7. Copy the below table and fill in at least two results (including the state-of-the-art)
-  for your dataset/task (change Score to the metric of your dataset). If your dataset/task
-  has multiple metrics, add them to the right of `Score`.
+    for your dataset/task (change Score to the metric of your dataset). If your dataset/task
+    has multiple metrics, add them to the right of `Score`.
 1. Submit your change as a pull request.
-  
+
 | Model           | Score  |  Paper / Source | Code |
 | ------------- | :-----:| --- | --- |
 |  |  |  | |

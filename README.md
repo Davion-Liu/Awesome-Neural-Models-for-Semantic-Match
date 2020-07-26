@@ -23,10 +23,10 @@ Where **s** and **t** are source text input and target text input, respectively.
 
 | **Tasks** | **Source Text**   | **Target Text**  |
 | :-------: | :----------------: | :--------------: |
-| Ad-hoc Information Retrieval| query   | document (title/content) |
-| Community Question Answer   | question| question/answer          |
-| Paraphrase Indentification  | string1 | string2                  |
-| Natural Language Inference  | premise | hypothesis               |
+| [Ad-hoc Information Retrieval](Ad-hoc Information Retrieval/Ad-hoc Information Retrieval.md)| query   | document (title/content) |
+| [Community Question Answer](Community Question Answer/Community Question Answer.md)   | question| question/answer          |
+| [Paraphrase Indentification](Paraphrase Identification/Paraphrase Identification.md)  | string1 | string2                  |
+| [Natural Language Inference](Natural Language Inference/Natural Language Inference.md)  | premise | hypothesis               |
 
 ### Healthcheck
 
